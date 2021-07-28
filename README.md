@@ -1,0 +1,2 @@
+# libdns
+DNS for C++.
